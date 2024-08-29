@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1681302182 source:c:\users\sanch\documents\sanchaygupta c++ program\voice_assistant\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<ctime>
+
